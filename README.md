@@ -10,7 +10,7 @@ This experiment evaluates the baseline performance of a Retrieval-Augmented Gene
 ### 1. Clone Repo & Create Environment
 
 ```bash
-git clone https://github.com/yourname/rag-baseline-experiment.git
+git clone https://github.com/zoey/rag-baseline-experiment.git
 cd rag-baseline-experiment
 python -m venv venv
 source venv/bin/activate
