@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 
 ### Configure environment variables:
-Create a .env file in the project root with your API keys:
+Create a .env file in the project root with the API keys
 
 ## Evaluation Criteria
 - Citation granularity (sentence-level, paragraph-level, cell-level)
